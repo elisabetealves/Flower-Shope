@@ -73,6 +73,15 @@ https://fabulous-join.surge.sh/
 
 <h1>
     <br>
+    <p style="color: #e84393; font-weight: bold;">🔗 Link do projeto no Netlify</p>
+</h1>
+
+https://flores-eli-shope.netlify.app
+
+<br>
+
+<h1>
+    <br>
     <p style="color: #e84393; font-weight: bold;">🛠️ Tecnologias Utilizadas</p>
 </h1>
 
@@ -165,3 +174,11 @@ _Qualquer dúvida ou sugestão, chama no contatinho!_
 </h1>
 
 Este projeto esta sob a licença [MIT](./LICENSE).
+
+<br>
+
+<h3>
+  <a href='#top'>🔝 Voltar para o topo.</a>
+</h3>
+
+<br>
